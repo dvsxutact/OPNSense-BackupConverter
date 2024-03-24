@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<opnsense>
+  <dhcpd>
+    <lan>
+      <staticmap>
+        <mac>e2:f8:a0:1c:7a:45</mac>
+        <hostname>restream-server</hostname>
+      </staticmap>
+    </lan>
+  </dhcpd>
+</opnsense>
